@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+plotly
+twilio
+schedule
+streamlit-calendar
+APScheduler
